@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: igrovye-avtomaty.github.io
+Sitemap: https://igrovye-avtomaty.github.io/sitemap.xml
